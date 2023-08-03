@@ -1,1 +1,28 @@
+JDK -> Java Development Kit - Compiler
+
+JDK 
+1)Download - https://www.filehorse.com/download-java-development-kit-64/
+2)Install-
+3)Set the Path
+
+C:/Program Files/java/jdk/bin - copy this path
+
+a) This PC -> right click -> properties -> View Adavanced system settings ->environment variables -> path -> edit -> new -> paste your path -> ok
+
+b) open your cmd
+
+c) type 
+  javac
+  java -version
+=============================================================
+IntelIJIDEA-Editor
+
+1)Download -> https://www.jetbrains.com/idea/download/?section=windows
+Community Edition
+
+2)Install
+
+3 Lecture - 5 to 6[TTS]
+3 Practice - [MWF]
+
 
