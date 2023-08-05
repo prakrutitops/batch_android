@@ -1,0 +1,36 @@
+Login 
+
+aadhar card
+linkedin
+insta
+education
+
+-----------------------------------
+fun -> function
+
+java->method based programming language
+kotlin -> functional base programming language
+
+data type
+int -integer - numeric value
+float-float - decimal value-4 byte
+character-char-character means single character
+double- double - decimal value-8 byte
+boolean-boolean - true,false
+string-string - you can store anything
+
+how to assign variable in kotlin
+
+var-you can change the value
+val-you can't change the value
+
+<=
+>=
+
+
+if
+else
+else if
+
+
+
