@@ -1,0 +1,42 @@
+If,else if,else
+
+switch,case,break -> when
+
+UserInput
+
+Loop:
+1)for:
+for in
+2)while -> Entry Control Loop
+3)do while->Exit Control Loop
+=====================================
+tops
+tops4
+
+Functions
+Condition
+Loop
+Variable Declare
+======================================
+break,continue
+functions
+i)return type
+ii)parameter[arguments]
+
+fun fun_name(var a,var b) : Int
+{
+	return 0
+}
+
+1)With argument with return type
+2)Without argument with return type
+3)Without return type with argument
+4)Without Argument without return
+
+Why we are using function 
+->we want to reduce the code 
+
+Types of Functions
+1)Inbuilt Function
+2)User defined Function
+
