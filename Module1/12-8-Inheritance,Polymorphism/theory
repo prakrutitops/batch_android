@@ -1,0 +1,75 @@
+Inheritance:When One Object acquire all the properties and behaviour of parent class
+
+parent -> child
+super -> sub
+base -> derived
+
+types of inheritance
+1)Single
+2)Multilevel
+3)Multiple -> is not supported in Kotlin
+
+Solution : Interface
+
+4)Hierarchical
+
+5)Hybrid
+
+Java:
+class A
+{
+	void a()
+	{
+
+	}
+}
+
+Kotlin:
+class A
+{
+	fun a()
+	{
+
+	}
+}
+
+Java:
+
+interface A
+{
+	void a();
+	
+}
+
+Kotlin:
+interface A
+{
+	void a();
+	
+}
+
+interface A
+{
+	fun a()
+	{
+		
+	}
+	
+}
+
+
+
+class
+interface
+
+
+Super Keyword ->parent class value->not supported in kotlin
+
+
+Polymorphism:Many ways to perform anything
+
+Overloading : when two methods having a same name but number of parameters are diffrent
+ 
+Overriding
+
+
