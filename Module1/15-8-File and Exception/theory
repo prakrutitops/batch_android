@@ -1,0 +1,16 @@
+FileOutputStream -> write
+FileInputStream -> read
+
+Your Name is : 
+Your Surname is :
+
+Serialization
+Deserialization
+
+Exception Handling
+1)try
+2)catch
+3)throw
+4)finally
+
+
