@@ -1,0 +1,33 @@
+Collection Framework:
+
+Collection : Class+ Interface+ Methods
+
+List
+
+1)ArrayList
+2)LinkedList
+ i)singly
+ii)doubly
+
+Set
+
+1)
+
+
+>
+2)LinkedHashset->
+
+Map
+
+1)HashMap
+
+Vector 
+
+Stack
+
+
+add
+addAll
+remove
+removeAt
+retainAll
