@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:backgroundTint="#FF5722"
+    tools:context=".MainActivity">
+
+
+    <TextView
+            android:id="@+id/t1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Milan"
+            android:textSize="35sp"
+            android:textColor="#FF5722"
+            android:gravity="center"
+            android:textStyle="bold"/>
+
+
+    <TextView
+            android:id="@+id/t2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Deep"
+            android:textSize="35sp"
+            android:textColor="#00BCD4"
+            android:textStyle="bold"
+            android:layout_below="@+id/t1"/>
+
+    <TextView
+        android:id="@+id/t3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Harshida"
+        android:textSize="35sp"
+        android:textColor="#FF9800"
+        android:textStyle="bold"
+        android:layout_below="@+id/t2"/>
+
+    <ImageView
+        android:id="@+id/i1"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/a"
+        android:layout_below="@+id/t3"/>
+
+</RelativeLayout>
+</ScrollView>
