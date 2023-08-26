@@ -1,0 +1,32 @@
+Android studio New Project Structure
+
+------------------------------------------
+app
+
+1)manifest
+AndroidManifest.xml -> Launching
+
+
+2)java->coding
+1->Kotlin Files
+2
+3
+
+3)res->designing
+drawable->images
+layout->xml file->design
+mipmap->images[inbuilt]
+values->color,string,theme
+xml
+------------------------------------------
+gradle scripts ->Library
+
+build.gradle[project]
+build.gradle[module]
+proguard - security
+gradle.properties
+gradle-wrapper.properties
+local.properties
+settings.gradle
+
+
