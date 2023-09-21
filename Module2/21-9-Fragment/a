@@ -1,1 +1,55 @@
+Activity:
 
+Fragment:Multiple screens on one activity
+
+types of fragment
+
+1)static -> Launching ->XML
+2)dynamic ->Launching ->Kotlin
+
+
+
+-> Every Fragment Needs an activity for launching
+
+Transactions:
+1) A to A->Intent
+2) A to F->Manager
+3) F to A->Intent
+4) F to F->Manager
+
+
+
+res
+src
+manifest->activity
+
+
+
+firstname
+lastname
+email
+gender->radiobutton
+
+button
+
+
+LinearLayout
+
+firstname
+lastname
+email
+gender->radiobutton
+
+
+Button ->click -> (A to F)
+
+framelayout->display->Male->Female
+
+Buttons ->
+
+Students
+Employee
+Admin
+
+
+Framelayout
