@@ -1,0 +1,8 @@
+id->int
+cricketer_name->varchar
+cricketer_hscore->int
+cricketer_age->int
+cricketer_photo->varchar
+
+https://www.hindustantimes.com/static-content/1y/cricket-logos/players/virat-kohli.png
+https://vyasprakruti.000webhostapp.com/images/virat.png
