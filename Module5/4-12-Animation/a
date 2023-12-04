@@ -1,1 +1,26 @@
 
+https://www.digitalocean.com/community/tutorials/android-animation-example
+
+imageview
+
+
+kotlin:
+
+Imageview imageview
+
+
+initialize
+
+
+animate()
+
+
+
+fun anim()
+{
+	var animation:Animation = AnimationUtils.loadAnimation(R.anim.rotate)
+	imageview.startanimation(animation)
+	
+}
+fade_in:
+rotate
